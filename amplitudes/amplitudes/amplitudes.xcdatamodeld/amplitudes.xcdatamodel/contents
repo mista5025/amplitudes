@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="14315.18" systemVersion="17G65" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Music" representedClassName="Music" syncable="YES">
+        <attribute name="albumThumb" optional="YES" attributeType="Binary" syncable="YES"/>
+        <attribute name="idAlbum" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="strAlbum" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="strArtist" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="strGenre" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="strMood" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="strReview" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Music" positionX="-63" positionY="-18" width="128" height="150"/>
+    </elements>
+</model>
